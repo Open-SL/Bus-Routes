@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Map from './map/map';
+import Map from './map/leafletMap';
 
 class App extends Component {
   render() {
